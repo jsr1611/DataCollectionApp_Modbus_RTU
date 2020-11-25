@@ -1,0 +1,9 @@
+C:\Users\JIMMY\source\repos\Modbus_RTU_SensorData\bin\Release\Modbus_RTU_SensorData.exe.config
+C:\Users\JIMMY\source\repos\Modbus_RTU_SensorData\bin\Release\Modbus_RTU_SensorData.exe
+C:\Users\JIMMY\source\repos\Modbus_RTU_SensorData\bin\Release\Modbus_RTU_SensorData.pdb
+C:\Users\JIMMY\source\repos\Modbus_RTU_SensorData\bin\Release\EasyModbus.dll
+C:\Users\JIMMY\source\repos\Modbus_RTU_SensorData\obj\Release\Modbus_RTU_SensorData.csprojAssemblyReference.cache
+C:\Users\JIMMY\source\repos\Modbus_RTU_SensorData\obj\Release\Modbus_RTU_SensorData.csproj.CoreCompileInputs.cache
+C:\Users\JIMMY\source\repos\Modbus_RTU_SensorData\obj\Release\Modbus_RTU_SensorData.csproj.CopyComplete
+C:\Users\JIMMY\source\repos\Modbus_RTU_SensorData\obj\Release\Modbus_RTU_SensorData.exe
+C:\Users\JIMMY\source\repos\Modbus_RTU_SensorData\obj\Release\Modbus_RTU_SensorData.pdb
